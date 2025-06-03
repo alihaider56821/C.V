@@ -1,0 +1,603 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3440px;
+	background-color: rgba(32,30,29,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+.ID22_2_Class {
+	fill: transparent;
+}
+.ID22_2 {
+	mix-blend-mode: exclusion;
+	overflow: hidden;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 650px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ali_Haider_Class {
+	filter: drop-shadow(-20px 20px 6px rgba(0, 0, 0, 0.8));
+	position: absolute;
+	width: 667px;
+	height: 1000px;
+	left: 1298px;
+	top: 82px;
+	overflow: visible;
+}
+.ID3544571_Class {
+	mix-blend-mode: exclusion;
+	position: absolute;
+	width: 1023px;
+	height: 723px;
+	left: 243px;
+	top: 211px;
+	overflow: visible;
+}
+.graphic_designer____film_maker_Class {
+	left: 281px;
+	top: 542px;
+	position: absolute;
+	overflow: visible;
+	width: 971px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Game Of Squids;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+.ID3d-rendered-illustration-bus_Class {
+	filter: drop-shadow(0px 30px 6px rgba(0, 0, 0, 0.8));
+	position: absolute;
+	width: 831px;
+	height: 831px;
+	left: 1089px;
+	top: 1208px;
+	overflow: visible;
+}
+.Pngtreecartoon_character_learn_Class {
+	filter: drop-shadow(5px 10px 6px rgba(0, 0, 0, 0.8));
+	position: absolute;
+	width: 458px;
+	height: 458px;
+	left: -67px;
+	top: 1082px;
+	overflow: visible;
+}
+.About_Ali_Hi_Im_Ali_I_design_I_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
+	left: 61px;
+	top: 1495px;
+	position: absolute;
+	overflow: visible;
+	width: 999px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.ID013__Class {
+	mix-blend-mode: screen;
+	position: absolute;
+	width: 174.232px;
+	height: 145.081px;
+	left: 134.722px;
+	top: 1416.459px;
+	overflow: visible;
+}
+.cherry_Class {
+	position: absolute;
+	width: 710px;
+	height: 181px;
+	left: 74px;
+	top: 2328px;
+	overflow: visible;
+}
+.Rectangle_3_Class {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 324px;
+	height: 54px;
+	left: 61px;
+	top: 2889px;
+}
+.Rectangle_4_Class {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 54px;
+	left: 61px;
+	top: 2254px;
+}
+.Rectangle_5_Class {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 54px;
+	left: 61px;
+	top: 2615px;
+}
+.Juice_Label_Class {
+	left: 81px;
+	top: 2242px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_6_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 236px;
+	left: 1689px;
+	top: 2846px;
+}
+.Rectangle_7_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	height: 193px;
+	left: 1396px;
+	top: 2872px;
+}
+.Rectangle_8_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 180px;
+	left: 1110px;
+	top: 2885px;
+}
+.logo_Class {
+	left: 81px;
+	top: 2603px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Buisness_card_Class {
+	left: 74px;
+	top: 2875px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.ID1-2_Class {
+	position: absolute;
+	width: 562px;
+	height: 162px;
+	left: 74px;
+	top: 2963px;
+	overflow: visible;
+}
+.logo_arabic_Class {
+	position: absolute;
+	width: 151px;
+	height: 129px;
+	left: 61px;
+	top: 2690px;
+	overflow: visible;
+}
+.ramadan_social_media_banner_13_Class {
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	left: 1120px;
+	top: 2896px;
+	overflow: visible;
+}
+.sample_Class {
+	position: absolute;
+	width: 124px;
+	height: 220px;
+	left: 1696px;
+	top: 2853px;
+	overflow: visible;
+}
+.____03_Class {
+	position: absolute;
+	width: 287px;
+	height: 287px;
+	left: 193px;
+	top: 2622px;
+	overflow: visible;
+}
+._______1_Class {
+	position: absolute;
+	width: 124px;
+	height: 143px;
+	left: 480px;
+	top: 2683px;
+	overflow: visible;
+}
+.Be_Honey_Class {
+	fill: transparent;
+}
+.Be_Honey {
+	overflow: hidden;
+	position: absolute;
+	width: 329px;
+	height: 185px;
+	left: 1103px;
+	top: 2451.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Beauty_Art_Marketing_1_Class {
+	fill: transparent;
+}
+.Beauty_Art_Marketing_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 267px;
+	height: 150px;
+	left: 1469px;
+	top: 2469.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Beauty_Art_sales_Class {
+	fill: transparent;
+}
+.Beauty_Art_sales {
+	overflow: hidden;
+	position: absolute;
+	width: 178px;
+	height: 178px;
+	left: 1406px;
+	top: 2881px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AND_MORE_Class {
+	filter: drop-shadow(0px 10px 6px rgba(129, 96, 53, 1));
+	left: 1056px;
+	top: 2670px;
+	position: absolute;
+	overflow: visible;
+	width: 681px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rush Driver;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
+.LOGO__Class {
+	filter: drop-shadow(0px 10px 6px rgba(129, 96, 53, 1));
+	left: 1056px;
+	top: 2265.5px;
+	position: absolute;
+	overflow: visible;
+	width: 681px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rush Driver;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
+.AND_MORe_Class {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.6));
+	left: 1409.5px;
+	top: 2762px;
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rush Driver;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+.ANIMATION_Class {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.6));
+	left: 1253.5px;
+	top: 2357.5px;
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rush Driver;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+.Component_2__14_Class {
+	position: absolute;
+	width: 197px;
+	height: 53px;
+	left: 165px;
+	top: 3314px;
+	overflow: visible;
+}
+.Home_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.CITYPNGCOMHD_White_Creative_Wh_Class {
+	position: absolute;
+	width: 124px;
+	height: 124px;
+	left: 644px;
+	top: 3278px;
+	overflow: visible;
+}
+.ID770_287_225_Class {
+	left: 792.5px;
+	top: 3324px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.aliabdullkareem15gmailcom_Class {
+	left: 1204px;
+	top: 3324px;
+	position: absolute;
+	overflow: visible;
+	width: 596px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.CITYPNGCOMBlack__White_HD_Gmai_Class {
+	position: absolute;
+	width: 105px;
+	height: 105px;
+	left: 1061px;
+	top: 3288px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	fill: rgba(251,205,9,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 965px;
+	left: -12px;
+	top: 90px;
+}
+.Rectangle_9_Class {
+	fill: rgba(251,205,9,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 749px;
+	height: 53px;
+	left: 359px;
+	top: 82px;
+}
+.Component_2__1_Class {
+	position: absolute;
+	width: 197px;
+	height: 53px;
+	left: 542px;
+	top: 82px;
+	overflow: visible;
+}
+.About_me_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.Component_2__3_Class {
+	position: absolute;
+	width: 146px;
+	height: 53px;
+	left: 766px;
+	top: 82px;
+	overflow: visible;
+}
+.Gallery_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.Component_2__5_Class {
+	position: absolute;
+	width: 146px;
+	height: 53px;
+	left: 951px;
+	top: 82px;
+	overflow: visible;
+}
+.Contact_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.Component_2__2_Class {
+	position: absolute;
+	width: 197px;
+	height: 53px;
+	left: 377px;
+	top: 82px;
+	overflow: visible;
+}
+.Home_bq_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.ALI_HAIDER_Class {
+	left: 281px;
+	top: 391px;
+	position: absolute;
+	overflow: visible;
+	width: 935px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Iron Maiden;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
